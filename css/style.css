@@ -41,6 +41,11 @@ img {
 .next_boxes {
   display: none;
 }
+.motive_btn:hover{
+    background-color: black;
+    color: white;
+
+}
 nav {
   width: 100%;
   z-index: 200;
