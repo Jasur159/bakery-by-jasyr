@@ -711,6 +711,7 @@ footer {
   }
   .footer_content {
     gap: 20px;
+    align-items: center;
   }
   .footer_link_box {
     grid-template-columns: repeat(3, 1fr);
