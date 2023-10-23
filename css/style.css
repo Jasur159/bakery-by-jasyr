@@ -716,6 +716,9 @@ footer {
     grid-template-columns: repeat(3, 1fr);
     row-gap: 20px;
   }
+  .footer_links{
+    align-items: center;
+  }
   .news_input {
     max-width: 100px;
   }
